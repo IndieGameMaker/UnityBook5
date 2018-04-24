@@ -1,0 +1,9 @@
+Base path: /Applications/Unity 4.6.0 beta20/Unity 4.6.0 beta20.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-1--1602670168
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=2483 outsize=1166 ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=1623 outsize=652 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=1623 outsize=496 kw= ok=1
